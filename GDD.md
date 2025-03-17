@@ -44,13 +44,13 @@
 
 ## **3. Mecánicas del Juego**  
 ### **Gameplay Central**  
-- **Objetivo Principal:** [Ej: Superar niveles, resolver misterios, sobrevivir]  
+- **Ciclo de juego:** El jugador explorá mundos semiabiertos derrotando enemigos mientras la historia se va desarrollando 
 - **Controles:** [Ej: Teclado/Ratón, Mando, Pantalla táctil]  
-- **Sistema de Progresión:** [Ej: Niveles, habilidades, inventario]  
+- **Sistema de Progresión:** Las estadísticas del jugador irán subiendo de nivel, y podrá ir desbloqueando habilidades de un árbol de habilidades con tres ramas diferentes.
 
 ### **Mecánicas Clave**  
-- [Mecánica 1: Ej: "Sistema de combate basado en tiempo real"]  
-- [Mecánica 2: Ej: "Personalización de personajes con habilidades únicas"]  
+- [Mecánica 1: Combate de acción en tiempo real de ritmo muy alto  
+- [Mecánica 2: Sistema de cinemáticas interactuables.  
 
 ### **Dificultad**  
 - [Cómo se maneja la dificultad: Ej: "Ajuste dinámico, opciones personalizables"]  
@@ -59,23 +59,29 @@
 
 ## **4. Historia y Mundo**  
 ### **Sinopsis**  
-Breve introducción al mundo y la trama. Ejemplo:  
-> *"En un mundo devastado por [evento], el jugador encarna a [personaje] para [objetivo]. Pero pronto descubre que [conflicto]."*  
+Año 25XX. La humanidad ha trascendido el espacio y ahora estudia realidades paralelas.
+ En una de ellas, en el planeta Xenon, equivalente a la tierra, los humanos han evolucionado de forma diferente, siendo capaces de almacenar y usar un tipo de bioenergía elemental que potencian sus cuerpos y les dotan de nuevas habilidades. Debido a su afinidad para el combate, Xenon se convirtió con el tiempo en un planeta gobernado en su totalidad por un unico imperio belicista que anhela expandirse... al precio que sea.
+
+La historia comienza cuando Shiro, un joven prometedor pero apático, es enviado nada más graduarse de la academia de combate del imperio a explorar el Nexo, un plano que parece conectar todas las dimensiones, donde descubrirá el lado oscuro sobre el imperio Xenon así como secretos enterrados de la humanidad.
+
+Siendo el único testigo de secretos que pueden sacudir el universo (o varios universos), tendrá que plantearse si merece la pena renunciar a todo para convertirse en algo que nunca quiso ser: un héroe.
 
 ### **Personajes Principales**  
-- **Nombre del Personaje:**  
-  - Rol: [Protagonista, aliado, antagonista]  
-  - Motivación: [Ej: Venganza, redención, supervivencia]  
+- **Shiro (nombre en clave)**  
+  - Rol: Protagonista, persoje anti-heroico.
+  - Motivación: Inicialmente la simple supervivencia, eventualmente se guía por motivaciones morales.
 
 ### **Mundo del Juego**  
-- **Escenarios:** [Ej: Ciudades futuristas, bosques encantados]  
-- **Ambientación:** [Ej: Post-apocalíptico, fantasía medieval]  
+- **Escenarios:** 
+  - Xenon: Ciudad futurista distópica
+  - Nexo: Distintos clichés de fantasía, en mayor parte mundos naturales. 
+- **Ambientación:** Fusión entre ciencia ficción y alta fantasía donde conviven la existencia de criaturas y habilidades mágicas con la alta tecnología y conceptos científicos. 
 
 ---
 
 ## **5. Arte y Estilo Visual**  
-- **Estilo Visual:** [Ej: Pixel art 2D, 3D low-poly, realista]  
-- **Referencias:** [Incluir imágenes o descripciones de inspiración]  
+- **Estilo Visual:** 3D Realista  
+- **Referencias:** Juegos como Nier y Final Fantasy Remake.
 - **Diseño de Personajes:** [Ej: "Siluetas reconocibles, paleta de colores vibrantes"]  
 - **Interfaz (UI/UX):** [Ej: Menús minimalistas, HUD contextual]  
 
